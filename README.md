@@ -26,6 +26,6 @@
 
 ## Time taken to finish this project
 
-> `5 hour`
+> `3 hour`
 
-## Project 14 [Live Link](https://street-style-landing-page-psi.vercel.app)
+## Project 1 [Live Link](https://street-style-landing-page-psi.vercel.app)
